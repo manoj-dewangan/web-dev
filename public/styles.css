@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.trayLogo {
+    max-height: 37px;
+}
+
+.enlarged-text-input {
+    font-size: 40px !important; /* Adjust the font size as needed */
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0;
+    color: #8b8c8d;
+}
